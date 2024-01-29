@@ -66,7 +66,7 @@ except FileNotFoundError:
         'bot_token': bot_token,
         'DEVLOO': DEVLOO,
         'MAX_ACCOUNTS': MAX_ACCOUNTS,
-        'user_bot': l_s_I_I_bot,
+        'user_bot': user_bot,
         'id_bot': 6888638576
     }
     
